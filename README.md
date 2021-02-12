@@ -3,3 +3,4 @@ Iron Condor Options Spread Visualizer for CS 429 Spring 2021
 
 Members:  
 Yipeng Han (yipengh3)
+Ardel Kardi (pnkardi2)
